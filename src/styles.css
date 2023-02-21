@@ -1,0 +1,29 @@
+h1,
+p {
+  text-align: center;
+}
+
+p {
+  background: #f5e1da;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+body {
+  margin: 30px;
+  background: #f1f1f1;
+  color: #476269;
+}
+
+a {
+  color: #40a798;
+  text-decoration: none;
+}
+a:hover {
+  color: #40a798;
+}
+
+.recipe {
+  max-width: 50%;
+  margin: 0 auto;
+}
