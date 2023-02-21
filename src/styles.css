@@ -3,6 +3,10 @@ p {
   text-align: center;
 }
 
+h1 {
+  font-size: 48px;
+}
+
 p {
   background: #f5e1da;
   border-radius: 10px;
@@ -21,6 +25,10 @@ a {
 }
 a:hover {
   color: #40a798;
+}
+
+img {
+  max-width: 40%;
 }
 
 .recipe {
